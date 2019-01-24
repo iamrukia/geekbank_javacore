@@ -46,3 +46,13 @@ LinkedHashMap通常提供的是遍历顺序符合插入顺序。这是通过为�
     我们可以创建反映反问顺序的实例，比如put/get/compute都可以算作‘访问’。
 TreeMap 对于TreeMap，它的整体顺序是由键的顺序关系决定的，通过Comparator或Comparable（自然顺序）来决定
     这里类似hashCode和equals的约定。自然顺序也有约定，就是compareTo和equals的返回值一致，避免了模棱两可。
+
+2 HashMap源码分析
+
+ - HashMap内部实现基本点分析
+    lazy-load原则，首次使用时被初始化
+    容量 * 负载银子 = 门限值，元素数量要超过门限值时，即达到扩容条件
+    容量小于MIN_TREIFY_CAPACITY只会简单扩容
+    容量大于MIN_TREIFY_CAPACITY时则会进行树化改造
+    树华改造本质是安全问题-》减少对象哈希冲突导致放进同一个桶 -》桶内链表过长 -》影响性能 -》哈希碰撞拒绝服务
+    树化（使用红黑树）可以将时间复杂度降到O(logn)
