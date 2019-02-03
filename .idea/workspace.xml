@@ -2,8 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d0732985-d90e-4603-ac10-c4209a086b69" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/builderpattern/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/builderpattern/People.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ocpexam/javaclassdesign/cloneasasuperclass/CloneDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ocpexam/javaclassdesign/inheritance/Child.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ocpexam/javaclassdesign/inheritance/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ocpexam/javaclassdesign/inheritance/Parent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ocpexam/javaclassdesign/polymorphism/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ocpexam/javaclassdesign/polymorphism/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ocpexam/javaclassdesign/polymorphism/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -16,10 +22,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/collections/framework/learn/TraverseCollections.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ocpexam/javaclassdesign/inheritance/Demo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="13" selection-end-column="9" />
+            <state>
+              <caret column="8" selection-start-column="8" selection-end-column="31" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -28,84 +34,64 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_162/src.zip!/java/lang/String.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ocpexam/javaclassdesign/polymorphism/Animal.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1275">
-              <caret line="110" column="19" selection-start-line="110" selection-start-column="19" selection-end-line="110" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/collections/framework/learn/SetInterfaces.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="24" column="35" selection-start-line="24" selection-start-column="35" selection-end-line="24" selection-end-column="35" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/collections/framework/learn/SortedSetDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="45" selection-start-line="5" selection-start-column="45" selection-end-line="5" selection-end-column="45" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/annotation/Test.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="26" column="44" selection-start-line="26" selection-start-column="44" selection-end-line="26" selection-end-column="44" />
+            <state relative-caret-position="102">
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#93#94#0" expanded="true" />
+                <element signature="e#117#118#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/builderpattern/People.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ocpexam/javaclassdesign/polymorphism/Dog.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="26" column="18" selection-start-line="26" selection-start-column="18" selection-end-line="26" selection-end-column="18" />
+            <state relative-caret-position="68">
+              <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
               <folding>
-                <element signature="e#589#590#0" expanded="true" />
-                <element signature="e#636#637#0" expanded="true" />
+                <element signature="e#156#157#0" expanded="true" />
+                <element signature="e#192#193#0" expanded="true" />
+                <element signature="e#216#217#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ocpexam/javaclassdesign/polymorphism/Demo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="342">
+              <caret line="19" selection-start-line="19" selection-end-line="19" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/builderpattern/Demo.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ocpexam/javaclassdesign/cloneasasuperclass/CloneDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="43" selection-start-line="6" selection-start-column="43" selection-end-line="6" selection-end-column="43" />
+            <state relative-caret-position="289">
+              <caret line="17" column="35" selection-start-line="17" selection-start-column="35" selection-end-line="17" selection-end-column="35" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_162/src.zip!/java/lang/annotation/Annotation.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ocpexam/javaclassdesign/inheritance/Child.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="43" column="17" selection-start-line="43" selection-start-column="17" selection-end-line="43" selection-end-column="17" />
+            <state relative-caret-position="51">
+              <caret line="3" column="22" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_162/src.zip!/java/util/HashSet.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ocpexam/javaclassdesign/inheritance/Parent.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1139">
-              <caret line="91" column="16" selection-start-line="91" selection-start-column="16" selection-end-line="91" selection-end-column="16" />
-              <folding>
-                <element signature="e#3740#3741#0" expanded="true" />
-                <element signature="e#3777#3778#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="119">
+              <caret line="7" column="31" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -143,6 +129,13 @@
         <option value="$PROJECT_DIR$/src/main/java/annotation/Test.java" />
         <option value="$PROJECT_DIR$/src/main/java/builderpattern/People.java" />
         <option value="$PROJECT_DIR$/src/main/java/builderpattern/Demo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ocpexam/javaclassdesign/inheritance/Demo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ocpexam/javaclassdesign/inheritance/Parent.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ocpexam/javaclassdesign/inheritance/Child.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ocpexam/javaclassdesign/polymorphism/Dog.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ocpexam/javaclassdesign/polymorphism/Animal.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ocpexam/javaclassdesign/polymorphism/Demo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ocpexam/javaclassdesign/cloneasasuperclass/CloneDemo.java" />
       </list>
     </option>
   </component>
@@ -182,6 +175,7 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -213,15 +207,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="builderpattern" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="nancore" type="b2602c69:ProjectViewProjectNode" />
-              <item name="geekbank_javacore" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="learn" type="462c0819:PsiDirectoryNode" />
+              <item name="javaclassdesign" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="nancore" type="b2602c69:ProjectViewProjectNode" />
@@ -247,19 +233,18 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548804943512" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549221361798" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.runner" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -273,39 +258,52 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Demo">
+  <component name="RunManager" selected="Application.CloneDemo">
+    <configuration name="CloneDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ocpexam.javaclassdesign.cloneasasuperclass.CloneDemo" />
+      <module name="geekbank_javacore" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ocpexam.javaclassdesign.cloneasasuperclass.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ocpexam.javaclassdesign.inheritance.Demo" />
+      <module name="geekbank_javacore" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ocpexam.javaclassdesign.inheritance.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ocpexam.javaclassdesign.polymorphism.Demo" />
+      <module name="geekbank_javacore" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ocpexam.javaclassdesign.polymorphism.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="builderpattern.Demo" />
       <module name="geekbank_javacore" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="builderpattern.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SetInterfaces" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collections.framework.learn.SetInterfaces" />
-      <module name="geekbank_javacore" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="collections.framework.learn.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SortedSetDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collections.framework.learn.SortedSetDemo" />
-      <module name="geekbank_javacore" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="collections.framework.learn.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -326,26 +324,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TraverseCollections" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collections.framework.learn.TraverseCollections" />
-      <module name="geekbank_javacore" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="collections.framework.learn.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CloneDemo" />
+        <item itemvalue="Application.Demo (2)" />
+        <item itemvalue="Application.Demo (1)" />
         <item itemvalue="Application.Demo" />
         <item itemvalue="Application.Test" />
-        <item itemvalue="Application.SortedSetDemo" />
-        <item itemvalue="Application.SetInterfaces" />
-        <item itemvalue="Application.TraverseCollections" />
       </list>
     </recent_temporary>
   </component>
@@ -366,11 +351,14 @@
       <workItem from="1548316513979" duration="1075000" />
       <workItem from="1548627036858" duration="284000" />
       <workItem from="1548798688041" duration="2857000" />
+      <workItem from="1548886751066" duration="829000" />
+      <workItem from="1548967064777" duration="2426000" />
+      <workItem from="1549145606745" duration="1326000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17230000" />
+    <option name="totallyTimeSpent" value="21811000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -385,8 +373,8 @@
     <frame x="3832" y="1050" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49301398" visible="true" weight="0.18017058" />
-      <window_info id="Structure" order="1" sideWeight="0.506986" side_tool="true" visible="true" weight="0.18017058" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.48794326" visible="true" weight="0.18550107" />
+      <window_info id="Structure" order="1" sideWeight="0.5120567" side_tool="true" visible="true" weight="0.18550107" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
@@ -394,7 +382,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946696" weight="0.23618636" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946696" visible="true" weight="0.23618636" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39869988" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -402,7 +390,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32936078" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.45720476" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.45720476" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50053304" side_tool="true" weight="0.32936078" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.32936078" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -624,6 +612,37 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/collections/framework/learn/SortedSetDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="45" selection-start-line="5" selection-start-column="45" selection-end-line="5" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/annotation/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="26" column="44" selection-start-line="26" selection-start-column="44" selection-end-line="26" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/builderpattern/People.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="26" column="18" selection-start-line="26" selection-start-column="18" selection-end-line="26" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_162/src.zip!/java/lang/annotation/Annotation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="43" column="17" selection-start-line="43" selection-start-column="17" selection-end-line="43" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_162/src.zip!/java/util/HashSet.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1139">
@@ -635,45 +654,71 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/collections/framework/learn/SortedSetDemo.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/builderpattern/Demo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="45" selection-start-line="5" selection-start-column="45" selection-end-line="5" selection-end-column="45" />
+        <state relative-caret-position="102">
+          <caret line="6" column="43" selection-start-line="6" selection-start-column="43" selection-end-line="6" selection-end-column="43" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_162/src.zip!/java/lang/annotation/Annotation.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/ocpexam/javaclassdesign/inheritance/Demo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="43" column="17" selection-start-line="43" selection-start-column="17" selection-end-line="43" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/annotation/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="26" column="44" selection-start-line="26" selection-start-column="44" selection-end-line="26" selection-end-column="44" />
+        <state>
+          <caret column="8" selection-start-column="8" selection-end-column="31" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/builderpattern/People.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/ocpexam/javaclassdesign/inheritance/Child.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="26" column="18" selection-start-line="26" selection-start-column="18" selection-end-line="26" selection-end-column="18" />
+        <state relative-caret-position="51">
+          <caret line="3" column="22" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ocpexam/javaclassdesign/inheritance/Parent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="31" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ocpexam/javaclassdesign/polymorphism/Dog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
           <folding>
-            <element signature="e#589#590#0" expanded="true" />
-            <element signature="e#636#637#0" expanded="true" />
+            <element signature="e#156#157#0" expanded="true" />
+            <element signature="e#192#193#0" expanded="true" />
+            <element signature="e#216#217#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/builderpattern/Demo.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/ocpexam/javaclassdesign/polymorphism/Animal.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
-          <caret line="6" column="43" selection-start-line="6" selection-start-column="43" selection-end-line="6" selection-end-column="43" />
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+          <folding>
+            <element signature="e#93#94#0" expanded="true" />
+            <element signature="e#117#118#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ocpexam/javaclassdesign/polymorphism/Demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ocpexam/javaclassdesign/cloneasasuperclass/CloneDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="35" selection-start-line="17" selection-start-column="35" selection-end-line="17" selection-end-column="35" />
         </state>
       </provider>
     </entry>
