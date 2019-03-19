@@ -2,17 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d0732985-d90e-4603-ac10-c4209a086b69" name="Default Changelist" comment="">
-<<<<<<< HEAD
-      <change afterPath="$PROJECT_DIR$/src/main/java/ocpexam/javaclassdesign/stream/ReduceDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ocpexam/javaclassdesign/stream/parallelism/ParallelismExamples.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ocpexam/javaclassdesign/stream/parallelism/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ocpexam/javaclassdesign/stream/parallelism/Practice.java" afterDir="false" />
-=======
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ocp/exam/guide/chap1/finalmethod/ClassExtendsOthers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ocp/exam/guide/chap1/finalmethod/ClassWithFinalMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ocp/exam/guide/chap1/finalmethod/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ocp/exam/guide/chap1/interfacedemo/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ocp/exam/guide/chap1/interfacedemo/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ocp/exam/guide/chap1/interfacedemo/InterfaceExtend.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ocp/exam/guide/chap1/protectedaccess/Hello.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ocp/exam/guide/chap1/protectedaccess/Hi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ocp/exam/guide/chap1/protectedaccessa/Hey.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
->>>>>>> 843a1bdce1b7619f71c6c149a2fc1377167f93f1
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ocp/exam/guide/chap1/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ocp/exam/guide/chap1/Demo.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -25,122 +26,105 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/ocpexam/javaclassdesign/stream/parallelism/Person.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ocp/exam/guide/chap1/protectedaccess/Hi.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1700">
-              <caret line="117" column="1" selection-start-line="117" selection-start-column="1" selection-end-line="117" selection-end-column="1" />
+            <state relative-caret-position="136">
+              <caret line="8" column="31" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ocp/exam/guide/chap1/Demo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="79" selection-start-line="4" selection-start-column="79" selection-end-line="4" selection-end-column="79" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ocp/exam/guide/chap1/finalmethod/ClassWithFinalMethod.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="4" column="33" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
               <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#2378#2379#0" expanded="true" />
-                <element signature="e#2441#2442#0" expanded="true" />
-                <element signature="e#2471#2472#0" expanded="true" />
-                <element signature="e#2500#2501#0" expanded="true" />
-                <element signature="e#2531#2532#0" expanded="true" />
-                <element signature="e#2558#2559#0" expanded="true" />
-                <element signature="e#2597#2598#0" expanded="true" />
-                <element signature="e#2632#2633#0" expanded="true" />
-                <element signature="e#2670#2671#0" expanded="true" />
-                <element signature="e#2701#2702#0" expanded="true" />
-                <element signature="e#2759#2760#0" expanded="true" />
-                <element signature="e#2814#2815#0" expanded="true" />
+                <element signature="e#101#102#0" expanded="true" />
+                <element signature="e#144#145#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ocp/exam/guide/chap1/finalmethod/ClassExtendsOthers.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="5" lean-forward="true" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/ocpexam/javaclassdesign/stream/parallelism/Practice.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ocp/exam/guide/chap1/finalmethod/Demo.java">
           <provider selected="true" editor-type-id="text-editor">
-<<<<<<< HEAD
-            <state relative-caret-position="578">
-              <caret line="34" selection-start-line="34" selection-end-line="34" />
-              <folding>
-                <element signature="imports" expanded="true" />
-=======
-            <state relative-caret-position="76">
-              <caret line="6" selection-start-line="6" selection-end-line="6" />
-              <folding>
-                <element signature="e#93#94#0" expanded="true" />
-                <element signature="e#129#130#0" expanded="true" />
->>>>>>> 843a1bdce1b7619f71c6c149a2fc1377167f93f1
-              </folding>
+            <state relative-caret-position="34">
+              <caret line="2" column="12" lean-forward="true" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/ocpexam/javaclassdesign/stream/parallelism/ParallelismExamples.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ocp/exam/guide/chap1/protectedaccessa/Hey.java">
           <provider selected="true" editor-type-id="text-editor">
-<<<<<<< HEAD
-            <state relative-caret-position="697">
-              <caret line="70" column="42" selection-start-line="70" selection-start-column="42" selection-end-line="70" selection-end-column="42" />
-              <folding>
-                <element signature="imports" expanded="true" />
-=======
-            <state relative-caret-position="76">
-              <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
-              <folding>
-                <element signature="e#120#121#0" expanded="true" />
-                <element signature="e#156#157#0" expanded="true" />
->>>>>>> 843a1bdce1b7619f71c6c149a2fc1377167f93f1
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-<<<<<<< HEAD
-=======
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/ocpexam/javaclassdesign/polymorphism/Demo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="361">
-              <caret line="19" selection-start-line="19" selection-end-line="19" />
+            <state relative-caret-position="51">
+              <caret line="3" column="24" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/ocpexam/javaclassdesign/cloneasasuperclass/CloneDemo.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ocp/exam/guide/chap1/protectedaccess/Hello.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="20" column="11" selection-start-line="20" selection-start-column="11" selection-end-line="20" selection-end-column="11" />
+            <state relative-caret-position="51">
+              <caret line="3" column="24" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="15" column="4" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="4" />
+            <state relative-caret-position="289">
+              <caret line="17" column="22" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/ocpexam/javaclassdesign/inheritance/Child.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ocp/exam/guide/chap1/interfacedemo/A.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="57">
-              <caret line="3" column="22" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
+            <state relative-caret-position="51">
+              <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="21" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/ocpexam/javaclassdesign/inheritance/Parent.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ocp/exam/guide/chap1/interfacedemo/B.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="7" column="31" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
+            <state relative-caret-position="51">
+              <caret line="3" column="21" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
             </state>
           </provider>
         </entry>
       </file>
->>>>>>> 843a1bdce1b7619f71c6c149a2fc1377167f93f1
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -159,6 +143,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/main/java/lec7/Test.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/lec9/LinkedHashMapSample.java" />
         <option value="$PROJECT_DIR$/src/main/java/TreeMapDemo.java" />
         <option value="$PROJECT_DIR$/src/main/java/lec9/HashMapDemo.java" />
@@ -175,15 +160,22 @@
         <option value="$PROJECT_DIR$/src/main/java/ocpexam/javaclassdesign/polymorphism/Animal.java" />
         <option value="$PROJECT_DIR$/src/main/java/ocpexam/javaclassdesign/polymorphism/Demo.java" />
         <option value="$PROJECT_DIR$/src/main/java/ocpexam/javaclassdesign/cloneasasuperclass/CloneDemo.java" />
-<<<<<<< HEAD
         <option value="$PROJECT_DIR$/src/main/java/ocpexam/javaclassdesign/stream/reduce.java" />
         <option value="$PROJECT_DIR$/src/main/java/ocpexam/javaclassdesign/stream/ReduceDemo.java" />
         <option value="$PROJECT_DIR$/src/main/java/ocpexam/javaclassdesign/stream/parallelism/ParalleismExamples.java" />
         <option value="$PROJECT_DIR$/src/main/java/ocpexam/javaclassdesign/stream/parallelism/Person.java" />
         <option value="$PROJECT_DIR$/src/main/java/ocpexam/javaclassdesign/stream/parallelism/Practice.java" />
-=======
-        <option value="$PROJECT_DIR$/pom.xml" />
->>>>>>> 843a1bdce1b7619f71c6c149a2fc1377167f93f1
+        <option value="$PROJECT_DIR$/src/main/java/ocp/exam/guide/chap1/Demo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ocp/exam/guide/chap1/InterfaceExtend.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ocp/exam/guide/chap1/interfacedemo/A.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ocp/exam/guide/chap1/interfacedemo/B.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ocp/exam/guide/chap1/interfacedemo/InterfaceExtend.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ocp/exam/guide/chap1/protectedaccess/Hello.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ocp/exam/guide/chap1/protectedaccessa/Hey.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ocp/exam/guide/chap1/protectedaccess/Hi.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ocp/exam/guide/chap1/finalmethod/ClassWithFinalMethod.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ocp/exam/guide/chap1/finalmethod/ClassExtendsOthers.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ocp/exam/guide/chap1/finalmethod/Demo.java" />
       </list>
     </option>
   </component>
@@ -210,19 +202,11 @@
       <select />
     </treeState>
   </component>
-<<<<<<< HEAD
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="790" />
+    <option name="x" value="789" />
     <option name="y" value="-21" />
     <option name="width" value="1941" />
     <option name="height" value="2112" />
-=======
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1936" />
-    <option name="height" value="1056" />
->>>>>>> 843a1bdce1b7619f71c6c149a2fc1377167f93f1
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -230,8 +214,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -263,7 +247,25 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="javaclassdesign" type="462c0819:PsiDirectoryNode" />
+              <item name="chap1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="nancore" type="b2602c69:ProjectViewProjectNode" />
+              <item name="geekbank_javacore" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="chap1" type="462c0819:PsiDirectoryNode" />
+              <item name="finalmethod" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="nancore" type="b2602c69:ProjectViewProjectNode" />
+              <item name="geekbank_javacore" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="chap1" type="462c0819:PsiDirectoryNode" />
+              <item name="interfacedemo" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="nancore" type="b2602c69:ProjectViewProjectNode" />
@@ -272,40 +274,6 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="javaclassdesign" type="462c0819:PsiDirectoryNode" />
-<<<<<<< HEAD
-              <item name="inheritance" type="462c0819:PsiDirectoryNode" />
-=======
-              <item name="cloneasasuperclass" type="462c0819:PsiDirectoryNode" />
->>>>>>> 843a1bdce1b7619f71c6c149a2fc1377167f93f1
-            </path>
-            <path>
-              <item name="nancore" type="b2602c69:ProjectViewProjectNode" />
-              <item name="geekbank_javacore" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="javaclassdesign" type="462c0819:PsiDirectoryNode" />
-              <item name="polymorphism" type="462c0819:PsiDirectoryNode" />
-            </path>
-<<<<<<< HEAD
-            <path>
-              <item name="nancore" type="b2602c69:ProjectViewProjectNode" />
-              <item name="geekbank_javacore" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="javaclassdesign" type="462c0819:PsiDirectoryNode" />
-              <item name="stream" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="nancore" type="b2602c69:ProjectViewProjectNode" />
-              <item name="geekbank_javacore" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="javaclassdesign" type="462c0819:PsiDirectoryNode" />
-              <item name="stream" type="462c0819:PsiDirectoryNode" />
-              <item name="parallelism" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="nancore" type="b2602c69:ProjectViewProjectNode" />
@@ -313,27 +281,19 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
-=======
->>>>>>> 843a1bdce1b7619f71c6c149a2fc1377167f93f1
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-<<<<<<< HEAD
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552842969729" />
-=======
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552303037449" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
->>>>>>> 843a1bdce1b7619f71c6c149a2fc1377167f93f1
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552942119570" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.editor" />
@@ -350,13 +310,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Practice">
-    <configuration name="CloneDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ocpexam.javaclassdesign.cloneasasuperclass.CloneDemo" />
+  <component name="RunManager" selected="Application.ClassExtendsOthers">
+    <configuration name="ClassExtendsOthers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ocp.exam.guide.chap1.finalmethod.ClassExtendsOthers" />
       <module name="geekbank_javacore" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ocpexam.javaclassdesign.cloneasasuperclass.*" />
+          <option name="PATTERN" value="ocp.exam.guide.chap1.finalmethod.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -364,12 +324,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ocpexam.javaclassdesign.polymorphism.Demo" />
+    <configuration name="Hi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ocp.exam.guide.chap1.protectedaccess.Hi" />
       <module name="geekbank_javacore" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ocpexam.javaclassdesign.polymorphism.*" />
+          <option name="PATTERN" value="ocp.exam.guide.chap1.protectedaccess.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -418,11 +378,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ClassExtendsOthers" />
+        <item itemvalue="Application.Hi" />
         <item itemvalue="Application.Practice" />
         <item itemvalue="Application.ParallelismExamples" />
         <item itemvalue="Application.ReduceDemo" />
-        <item itemvalue="Application.CloneDemo" />
-        <item itemvalue="Application.Demo (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -445,7 +405,6 @@
       <workItem from="1548798688041" duration="2857000" />
       <workItem from="1548886751066" duration="829000" />
       <workItem from="1548967064777" duration="2426000" />
-<<<<<<< HEAD
       <workItem from="1549145606745" duration="2182000" />
       <workItem from="1551130295016" duration="126000" />
       <workItem from="1551130619301" duration="2216000" />
@@ -455,19 +414,14 @@
       <workItem from="1551640777759" duration="599000" />
       <workItem from="1551987637292" duration="2970000" />
       <workItem from="1552766321126" duration="42000" />
-=======
-      <workItem from="1549145606745" duration="1326000" />
-      <workItem from="1552302674646" duration="262000" />
->>>>>>> 843a1bdce1b7619f71c6c149a2fc1377167f93f1
+      <workItem from="1552842862524" duration="951000" />
+      <workItem from="1552843843612" duration="2448000" />
+      <workItem from="1553029223256" duration="1100000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-<<<<<<< HEAD
-    <option name="totallyTimeSpent" value="31075000" />
-=======
-    <option name="totallyTimeSpent" value="22073000" />
->>>>>>> 843a1bdce1b7619f71c6c149a2fc1377167f93f1
+    <option name="totallyTimeSpent" value="35574000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -479,25 +433,19 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-<<<<<<< HEAD
-    <frame x="3832" y="1050" width="1936" height="1056" extended-state="6" />
+    <frame x="-7" y="-7" width="2575" height="1415" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.47778982" visible="true" weight="0.20255864" />
-      <window_info id="Structure" order="1" sideWeight="0.5222102" side_tool="true" visible="true" weight="0.20255864" />
-=======
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.48502994" visible="true" weight="0.18763326" />
-      <window_info id="Structure" order="1" sideWeight="0.51497006" side_tool="true" visible="true" weight="0.18763326" />
->>>>>>> 843a1bdce1b7619f71c6c149a2fc1377167f93f1
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.47466874" visible="true" weight="0.15506959" />
+      <window_info id="Structure" order="1" sideWeight="0.52533126" side_tool="true" visible="true" weight="0.15506959" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946696" weight="0.32827735" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32969603" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946696" weight="0.3281372" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39869988" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -505,13 +453,9 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32936078" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-<<<<<<< HEAD
       <window_info anchor="bottom" id="Terminal" order="10" weight="0.3289166" />
-=======
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.45661604" />
->>>>>>> 843a1bdce1b7619f71c6c149a2fc1377167f93f1
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50053304" side_tool="true" weight="0.32936078" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.32936078" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.3289166" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -668,8 +612,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_162/src.zip!/java/util/HashMap.java" />
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_162/src.zip!/java/util/TreeMap.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_162/src.zip!/java/util/HashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="29495">
+          <caret line="1803" column="23" selection-start-line="1803" selection-start-column="23" selection-end-line="1803" selection-end-column="23" />
+          <folding>
+            <element signature="e#19327#19328#0" expanded="true" />
+            <element signature="e#19410#19411#0" expanded="true" />
+            <element signature="e#24329#24330#0" expanded="true" />
+            <element signature="e#24394#24395#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_162/src.zip!/java/util/TreeMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="31229">
+          <caret line="2055" column="19" selection-start-line="2055" selection-start-column="19" selection-end-line="2055" selection-end-column="19" />
+          <folding>
+            <element signature="e#5767#5768#0" expanded="true" />
+            <element signature="e#5800#5801#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/lec7/Test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -677,7 +643,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_162/src.zip!/java/util/Set.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_162/src.zip!/java/util/Set.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="80" column="29" lean-forward="true" selection-start-line="80" selection-start-column="29" selection-end-line="80" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/collections/framework/learn/TraverseCollections.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
@@ -688,7 +660,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_162/src.zip!/java/lang/String.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_162/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1275">
+          <caret line="110" column="19" selection-start-line="110" selection-start-column="19" selection-end-line="110" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/collections/framework/learn/SetInterfaces.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="408">
@@ -720,8 +698,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_162/src.zip!/java/lang/annotation/Annotation.java" />
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_162/src.zip!/java/util/HashSet.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_162/src.zip!/java/lang/annotation/Annotation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="43" column="17" selection-start-line="43" selection-start-column="17" selection-end-line="43" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_162/src.zip!/java/util/HashSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1139">
+          <caret line="91" column="16" selection-start-line="91" selection-start-column="16" selection-end-line="91" selection-end-column="16" />
+          <folding>
+            <element signature="e#3740#3741#0" expanded="true" />
+            <element signature="e#3777#3778#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/builderpattern/Demo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
@@ -740,7 +734,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ocpexam/javaclassdesign/polymorphism/Animal.java">
-<<<<<<< HEAD
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="6" selection-start-line="6" selection-end-line="6" />
@@ -784,21 +777,14 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ocpexam/javaclassdesign/inheritance/Parent.java">
-=======
->>>>>>> 843a1bdce1b7619f71c6c149a2fc1377167f93f1
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-          <folding>
-            <element signature="e#93#94#0" expanded="true" />
-            <element signature="e#129#130#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="119">
+          <caret line="7" column="31" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ocpexam/javaclassdesign/stream/ReduceDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-<<<<<<< HEAD
         <state relative-caret-position="306">
           <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
         </state>
@@ -826,6 +812,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ocpexam/javaclassdesign/stream/parallelism/Practice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="15" column="33" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ocpexam/javaclassdesign/stream/parallelism/ParallelismExamples.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="697">
@@ -833,57 +829,87 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-=======
-        <state relative-caret-position="76">
-          <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ocp/exam/guide/chap1/interfacedemo/InterfaceExtend.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ocp/exam/guide/chap1/protectedaccess/Hi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="31" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ocp/exam/guide/chap1/Demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="79" selection-start-line="4" selection-start-column="79" selection-end-line="4" selection-end-column="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ocp/exam/guide/chap1/finalmethod/ClassWithFinalMethod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="4" column="33" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
           <folding>
-            <element signature="e#120#121#0" expanded="true" />
-            <element signature="e#156#157#0" expanded="true" />
+            <element signature="e#101#102#0" expanded="true" />
+            <element signature="e#144#145#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ocpexam/javaclassdesign/polymorphism/Demo.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/ocp/exam/guide/chap1/protectedaccessa/Hey.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        <state relative-caret-position="51">
+          <caret line="3" column="24" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ocpexam/javaclassdesign/inheritance/Child.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/ocp/exam/guide/chap1/protectedaccess/Hello.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="22" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ocpexam/javaclassdesign/inheritance/Parent.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="31" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
->>>>>>> 843a1bdce1b7619f71c6c149a2fc1377167f93f1
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ocpexam/javaclassdesign/stream/parallelism/Practice.java">
-      <provider selected="true" editor-type-id="text-editor">
-<<<<<<< HEAD
-        <state relative-caret-position="578">
-          <caret line="34" selection-start-line="34" selection-end-line="34" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-=======
-        <state relative-caret-position="380">
-          <caret line="20" column="11" selection-start-line="20" selection-start-column="11" selection-end-line="20" selection-end-column="11" />
+        <state relative-caret-position="51">
+          <caret line="3" column="24" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="4" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="4" />
->>>>>>> 843a1bdce1b7619f71c6c149a2fc1377167f93f1
+        <state relative-caret-position="289">
+          <caret line="17" column="22" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ocp/exam/guide/chap1/interfacedemo/A.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ocp/exam/guide/chap1/interfacedemo/B.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="21" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ocp/exam/guide/chap1/finalmethod/ClassExtendsOthers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="5" lean-forward="true" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ocp/exam/guide/chap1/finalmethod/Demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="12" lean-forward="true" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
         </state>
       </provider>
     </entry>
@@ -951,6 +977,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
+          <last-edited>Maven: asm:asm:3.3.1</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
