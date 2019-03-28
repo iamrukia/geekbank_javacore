@@ -15,7 +15,7 @@ public class Demo {
                     "192.168.0.25",
                     22);
 
-            session.setPassword("S.nbfg");
+            session.setPassword("*****");
             UserInfo userInfo = new UserInfo() {
                 @Override
                 public String getPassphrase() {
