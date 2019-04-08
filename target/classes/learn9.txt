@@ -1,0 +1,58 @@
+l9 - Map
+
+HashTable
+HashMap
+TreeMap
+
+共同点：都是Map实现，以键值对的形式存储和操作数据的容器类型
+
+不同点：
+ - HashTable 早期提供的哈希表实现。本身是同步的，不支持null键和值。同步带来的开销导致很少被推荐使用
+ - HashMap 应用广泛的哈希表实现。行为上和HashTable一致，主要区别在于HashMap不是同步的，支持null键和值。通常情况下， 
+    HashMap进行Put或Get操作可以达到常数时间的性能，所以是绝大部分利用键值对存取场景的首选
+ - TreeMap 则是基于红黑树的一种提供顺序访问的Map。和HashMap不同，他的get put remove之类操作都是O（logn）的时间复杂度
+    ，具体的顺序有指定的comparator来决定
+
+
+分析：
+ - 理解Map相关类似整体结构， 结合有序数据的狗的要点
+ - 从源码分析设计和实现要点，容量，负载因子等；为什么需要这些参数，他们如何影响Map的性能，实践中如何取舍
+ - 理解书画改造的相关原理
+ - 开发问题： 
+     - HashMap并发环境下无限占用CPU - https://bugs.java.com/bugdatabase/view_bug.do?bug_id=6423457 - https://mailinator.blogspot.com/2009/06/beautiful-race-condition.html
+     - size不准
+
+知识扩展
+
+1 Map整体结构
+
+HashTable 比较特别，作为类似Vector，Stack的早期集合相关类型，他是扩展了Dictionary类的。结构上与HashMap明显不同
+
+HashMap等其他Map则是都扩展了AbstractedMap。里面包含了通用方法抽象。不同Map的用途，其设计目的已经体现在不同接口上。
+    HashMap场景时put/get/delete，而对顺序没有特别的要求。
+    HashMap性能非常依赖于哈希码的有效性。
+    
+   
+
+HashCode和equals的一些基本约定：
+ - equals相等 =》 hashCode相等
+ - 重写hashCode也要重写equals
+ - hashCode需要保持一致性，状态返回的哈希值仍然要一致
+ - equals的对称，反射和传递性
+
+有序Map
+LinkedHashMap和TreeMap都可以保证某种顺序，但不同点在于：
+LinkedHashMap通常提供的是遍历顺序符合插入顺序。这是通过为键值对维护一个双向链表而实现的。通过特定的构造函数，
+    我们可以创建反映反问顺序的实例，比如put/get/compute都可以算作‘访问’。
+TreeMap 对于TreeMap，它的整体顺序是由键的顺序关系决定的，通过Comparator或Comparable（自然顺序）来决定
+    这里类似hashCode和equals的约定。自然顺序也有约定，就是compareTo和equals的返回值一致，避免了模棱两可。
+
+2 HashMap源码分析
+
+ - HashMap内部实现基本点分析
+    lazy-load原则，首次使用时被初始化
+    容量 * 负载银子 = 门限值，元素数量要超过门限值时，即达到扩容条件
+    容量小于MIN_TREIFY_CAPACITY只会简单扩容
+    容量大于MIN_TREIFY_CAPACITY时则会进行树化改造
+    树华改造本质是安全问题-》减少对象哈希冲突导致放进同一个桶 -》桶内链表过长 -》影响性能 -》哈希碰撞拒绝服务
+    树化（使用红黑树）可以将时间复杂度降到O(logn)

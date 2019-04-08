@@ -5,7 +5,7 @@ public class Demo {
         String s = SshUtil.executeSSHCommand(
                 "pi",
                 "192.168.0.25",
-                "*****",
+                "S.nbfg",
                 "22",
                 "ls -ltr"
         );
