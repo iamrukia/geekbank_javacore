@@ -17,6 +17,7 @@
         <dependency>
             <groupId>org.openjdk.jol</groupId>
             <artifactId>jol-core</artifactId>
+            <version>0.9</version>
         </dependency>
         <dependency>
             <groupId>org.apache.velocity</groupId>
@@ -39,6 +40,12 @@
             <groupId>org.apache.velocity.tools</groupId>
             <artifactId>velocity-tools-view-jsp</artifactId>
             <version>3.0</version>
+        </dependency>
+
+        <dependency>
+            <groupId>com.jcraft</groupId>
+            <artifactId>jsch</artifactId>
+            <version>0.1.55</version>
         </dependency>
     </dependencies>
 </project>
