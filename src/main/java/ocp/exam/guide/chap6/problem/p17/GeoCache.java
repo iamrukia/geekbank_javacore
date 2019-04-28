@@ -10,8 +10,12 @@ public class GeoCache {
         Othello o = new Othello();
         Arrays.sort(s, o);
         for (String s2 : s) System.out.print(s2 + " ");
+        System.out.println("");
 
         System.out.println(Arrays.binarySearch(s,"map"));
+
+        //use the same comparator during sort
+        System.out.println(Arrays.binarySearch(s,"key",o));
     }
 
     static class Othello implements Comparator<String> {

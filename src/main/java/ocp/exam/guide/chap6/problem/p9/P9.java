@@ -13,6 +13,7 @@ public class P9 {
 
         pq.offer("1");
 
+        System.out.println(pq);
         pq.add("3");
         pq.remove("1");
         System.out.println(pq.poll()+" ");
