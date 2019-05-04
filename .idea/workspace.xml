@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d0732985-d90e-4603-ac10-c4209a086b69" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ocp/exam/guide/chap6/binarysearch/BinarySearchDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ocp/exam/guide/chap6/backed/collections/TreeMapDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -32,15 +33,27 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/ocp/exam/guide/chap6/binarysearch/BinarySearchDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="25" column="71" selection-start-line="25" selection-start-column="71" selection-end-line="25" selection-end-column="71" />
+            <state relative-caret-position="510">
+              <caret line="30" column="34" selection-start-line="30" selection-start-column="34" selection-end-line="30" selection-end-column="34" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#892#893#0" expanded="true" />
                 <element signature="e#937#938#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ocp/exam/guide/chap6/backed/collections/TreeMapDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="23" column="8" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="8" />
+              <folding>
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -69,7 +82,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/ocp/exam/guide/chap1/q5/Device.java" />
         <option value="$PROJECT_DIR$/src/main/java/ocp/exam/guide/chap1/q5/Electronic.java" />
         <option value="$PROJECT_DIR$/src/main/java/ocp/exam/guide/chap1/q5/Phone1.java" />
         <option value="$PROJECT_DIR$/src/main/java/ocp/exam/guide/chap1/q5/Phone2.java" />
@@ -120,6 +132,7 @@
         <option value="$PROJECT_DIR$/src/main/java/ocp/exam/guide/chap6/problem/sort/SortDemo.java" />
         <option value="$PROJECT_DIR$/src/main/java/ocp/exam/guide/chap6/sort/SortDemo.java" />
         <option value="$PROJECT_DIR$/src/main/java/ocp/exam/guide/chap6/binarysearch/BinarySearchDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ocp/exam/guide/chap6/backed/collections/TreeMapDemo.java" />
       </list>
     </option>
   </component>
@@ -152,10 +165,10 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="282" />
-    <option name="y" value="-24" />
-    <option name="width" value="972" />
-    <option name="height" value="1047" />
+    <option name="x" value="3981" />
+    <option name="y" value="1046" />
+    <option name="width" value="648" />
+    <option name="height" value="346" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -214,27 +227,7 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="guide" type="462c0819:PsiDirectoryNode" />
-              <item name="problem" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="nancore" type="b2602c69:ProjectViewProjectNode" />
-              <item name="geekbank_javacore" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="guide" type="462c0819:PsiDirectoryNode" />
-              <item name="problem" type="462c0819:PsiDirectoryNode" />
-              <item name="p2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="nancore" type="b2602c69:ProjectViewProjectNode" />
-              <item name="geekbank_javacore" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="guide" type="462c0819:PsiDirectoryNode" />
-              <item name="problem" type="462c0819:PsiDirectoryNode" />
-              <item name="p11" type="462c0819:PsiDirectoryNode" />
+              <item name="chap6" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="nancore" type="b2602c69:ProjectViewProjectNode" />
@@ -244,6 +237,7 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="guide" type="462c0819:PsiDirectoryNode" />
               <item name="chap6" type="462c0819:PsiDirectoryNode" />
+              <item name="collections" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="nancore" type="b2602c69:ProjectViewProjectNode" />
@@ -254,16 +248,6 @@
               <item name="guide" type="462c0819:PsiDirectoryNode" />
               <item name="chap6" type="462c0819:PsiDirectoryNode" />
               <item name="binarysearch" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="nancore" type="b2602c69:ProjectViewProjectNode" />
-              <item name="geekbank_javacore" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="guide" type="462c0819:PsiDirectoryNode" />
-              <item name="chap6" type="462c0819:PsiDirectoryNode" />
-              <item name="sort" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="nancore" type="b2602c69:ProjectViewProjectNode" />
@@ -351,7 +335,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.BinarySearchDemo">
+  <component name="RunManager" selected="Application.TreeMapDemo">
     <configuration name="BinarySearchDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ocp.exam.guide.chap6.binarysearch.BinarySearchDemo" />
       <module name="nan.core" />
@@ -404,12 +388,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TurtleTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ocp.exam.guide.chap6.problem.p12.TurtleTest" />
+    <configuration name="TreeMapDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ocp.exam.guide.chap6.backed.collections.TreeMapDemo" />
       <module name="nan.core" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ocp.exam.guide.chap6.problem.p12.*" />
+          <option name="PATTERN" value="ocp.exam.guide.chap6.backed.collections.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -419,11 +403,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TreeMapDemo" />
         <item itemvalue="Application.BinarySearchDemo" />
         <item itemvalue="Application.GeoCache" />
         <item itemvalue="Application.FirstGrade" />
         <item itemvalue="Application.P3" />
-        <item itemvalue="Application.TurtleTest" />
       </list>
     </recent_temporary>
   </component>
@@ -477,12 +461,12 @@
       <workItem from="1555971436545" duration="831000" />
       <workItem from="1556049228032" duration="1414000" />
       <workItem from="1556139755132" duration="3160000" />
-      <workItem from="1557005214793" duration="611000" />
+      <workItem from="1557005214793" duration="1868000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="78541000" />
+    <option name="totallyTimeSpent" value="79798000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -494,11 +478,11 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="2575" height="1415" extended-state="6" />
+    <frame x="3832" y="1050" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.7381138" visible="true" weight="0.1805169" />
-      <window_info id="Structure" order="1" sideWeight="0.2618862" side_tool="true" visible="true" weight="0.1805169" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.73752016" visible="true" weight="0.24200426" />
+      <window_info id="Structure" order="1" sideWeight="0.26247987" side_tool="true" visible="true" weight="0.24200426" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
@@ -506,7 +490,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32969603" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946696" weight="0.3281372" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49946696" visible="true" weight="0.32719395" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39828527" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -514,7 +498,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32936078" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.28293064" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.39328277" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50053304" side_tool="true" weight="0.32936078" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.3289166" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -522,7 +506,7 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Theme Preview" order="4" />
-      <window_info anchor="right" id="Maven" order="5" visible="true" weight="0.32962227" />
+      <window_info anchor="right" id="Maven" order="5" weight="0.44189766" />
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Database" order="8" weight="0.44189766" />
@@ -636,21 +620,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/ocp/exam/guide/chap2/DontBoilFrogs.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="11" selection-start-line="19" selection-start-column="11" selection-end-line="19" selection-end-column="11" />
-          <folding>
-            <element signature="e#89#90#0" expanded="true" />
-            <element signature="e#116#117#0" expanded="true" />
-            <element signature="e#154#155#0" expanded="true" />
-            <element signature="e#179#180#0" expanded="true" />
-            <element signature="e#286#287#0" expanded="true" />
-            <element signature="e#320#321#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ocp/exam/guide/chap2/problem/p9/Redwood.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
@@ -1153,12 +1122,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ocp/exam/guide/chap6/binarysearch/BinarySearchDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="25" column="71" selection-start-line="25" selection-start-column="71" selection-end-line="25" selection-end-column="71" />
+        <state relative-caret-position="510">
+          <caret line="30" column="34" selection-start-line="30" selection-start-column="34" selection-end-line="30" selection-end-column="34" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#892#893#0" expanded="true" />
             <element signature="e#937#938#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ocp/exam/guide/chap6/backed/collections/TreeMapDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="8" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
