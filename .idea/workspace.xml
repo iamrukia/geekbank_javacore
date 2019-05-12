@@ -2,20 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d0732985-d90e-4603-ac10-c4209a086b69" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ocp/exam/guide/chap6/make/own/genericclass/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ocp/exam/guide/chap6/make/own/genericclass/AnimalHolder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ocp/exam/guide/chap6/make/own/genericclass/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ocp/exam/guide/chap6/make/own/genericclass/CarRental.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ocp/exam/guide/chap6/make/own/genericclass/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ocp/exam/guide/chap6/make/own/genericclass/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ocp/exam/guide/chap6/make/own/genericclass/Rental.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ocp/exam/guide/chap6/make/own/genericclass/RentalGeneric.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ocp/exam/guide/chap6/make/own/genericclass/TestGenerics.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ocp/exam/guide/chap6/make/own/genericclass/TestRental.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ocp/exam/guide/chap6/make/own/genericclass/TestX.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ocp/exam/guide/chap6/make/own/genericclass/UseTwo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ocp/exam/guide/chap6/make/own/genericclass/X.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ocp/exam/guide/chap6/mix/generic/nongeneric/TestBadLegacy.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -110,7 +96,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/ocp/exam/guide/chap6/make/own/genericclass/X.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="85">
-              <caret line="5" column="41" lean-forward="true" selection-start-line="5" selection-start-column="41" selection-end-line="5" selection-end-column="41" />
+              <caret line="5" column="41" selection-start-line="5" selection-start-column="41" selection-end-line="5" selection-end-column="41" />
             </state>
           </provider>
         </entry>
@@ -119,7 +105,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/ocp/exam/guide/chap6/make/own/genericclass/TestX.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="85">
-              <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
             </state>
           </provider>
         </entry>
@@ -593,12 +579,12 @@
       <workItem from="1557005214793" duration="6658000" />
       <workItem from="1557182946136" duration="303000" />
       <workItem from="1557349034991" duration="668000" />
-      <workItem from="1557432968610" duration="2011000" />
+      <workItem from="1557432968610" duration="2645000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="87570000" />
+    <option name="totallyTimeSpent" value="88204000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -611,7 +597,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="3832" y="1050" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.7361111" visible="true" weight="0.21695095" />
       <window_info id="Structure" order="1" sideWeight="0.2650231" side_tool="true" weight="0.21268657" />
@@ -630,15 +615,15 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32936078" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.29685807" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.29685807" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50053304" side_tool="true" weight="0.32936078" />
-      <window_info active="true" anchor="bottom" id="Messages" order="12" visible="true" weight="0.32827735" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32827735" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.24970178" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Theme Preview" order="4" />
-      <window_info anchor="right" id="Maven" order="5" weight="0.44189766" />
+      <window_info anchor="right" id="Maven" order="5" visible="true" weight="0.44189766" />
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Database" order="8" weight="0.44189766" />
@@ -1268,14 +1253,14 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/ocp/exam/guide/chap6/make/own/genericclass/X.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
-          <caret line="5" column="41" lean-forward="true" selection-start-line="5" selection-start-column="41" selection-end-line="5" selection-end-column="41" />
+          <caret line="5" column="41" selection-start-line="5" selection-start-column="41" selection-end-line="5" selection-end-column="41" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ocp/exam/guide/chap6/make/own/genericclass/TestX.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
-          <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>
