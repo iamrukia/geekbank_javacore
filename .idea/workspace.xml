@@ -2,14 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d0732985-d90e-4603-ac10-c4209a086b69" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ocp/exam/guide/chap9/collector/CollectorDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ocp/exam/guide/chap9/collector/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ocp/exam/guide/chap9/optional/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ocp/exam/guide/chap9/optional/SortedDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ocp/exam/guide/chap9/parallel/ManyNames.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ocp/exam/guide/chap9/parallel/ParallelDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ocp/exam/guide/chap10/exercise102/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ocp/exam/guide/chap10/exercise102/SyncBlock.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ocp/exam/guide/chap9/optional/OptionalDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ocp/exam/guide/chap9/optional/OptionalDemo.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -53,8 +48,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/ocp/exam/guide/chap9/collector/CollectorDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="685">
-              <caret line="54" column="18" lean-forward="true" selection-start-line="54" selection-start-column="18" selection-end-line="54" selection-end-column="18" />
+            <state relative-caret-position="833">
+              <caret line="54" column="18" selection-start-line="54" selection-start-column="18" selection-end-line="54" selection-end-column="18" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -65,8 +60,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/ocp/exam/guide/chap9/parallel/ParallelDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="25" lean-forward="true" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+            <state relative-caret-position="170">
+              <caret line="11" column="25" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -74,11 +69,32 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/ocp/exam/guide/chap9/parallel/ManyNames.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="85">
               <caret line="5" column="36" selection-start-line="5" selection-start-column="36" selection-end-line="5" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ocp/exam/guide/chap10/exercise102/SyncBlock.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="17" column="34" selection-start-line="17" selection-start-column="34" selection-end-line="17" selection-end-column="34" />
+              <folding>
+                <element signature="e#196#197#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ocp/exam/guide/chap10/exercise102/Demo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
             </state>
           </provider>
         </entry>
@@ -145,8 +161,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/tiku/p002/course.txt" />
-        <option value="$PROJECT_DIR$/src/main/java/tiku/p002/P2.java" />
         <option value="$PROJECT_DIR$/src/main/java/tiku/p001/IceCream.java" />
         <option value="$PROJECT_DIR$/src/main/java/tiku/p001/Cake.java" />
         <option value="$PROJECT_DIR$/src/main/java/tiku/p001/Shop.java" />
@@ -196,6 +210,8 @@
         <option value="$PROJECT_DIR$/src/main/java/ocp/exam/guide/chap9/collector/CollectorDemo.java" />
         <option value="$PROJECT_DIR$/src/main/java/ocp/exam/guide/chap9/parallel/ParallelDemo.java" />
         <option value="$PROJECT_DIR$/src/main/java/ocp/exam/guide/chap9/parallel/ManyNames.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ocp/exam/guide/chap10/exercise102/Demo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ocp/exam/guide/chap10/exercise102/SyncBlock.java" />
       </list>
     </option>
   </component>
@@ -293,27 +309,7 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="guide" type="462c0819:PsiDirectoryNode" />
-              <item name="chap9" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="nancore" type="b2602c69:ProjectViewProjectNode" />
-              <item name="geekbank_javacore" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="guide" type="462c0819:PsiDirectoryNode" />
-              <item name="chap9" type="462c0819:PsiDirectoryNode" />
-              <item name="collector" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="nancore" type="b2602c69:ProjectViewProjectNode" />
-              <item name="geekbank_javacore" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="guide" type="462c0819:PsiDirectoryNode" />
-              <item name="chap9" type="462c0819:PsiDirectoryNode" />
-              <item name="parallel" type="462c0819:PsiDirectoryNode" />
+              <item name="exercise102" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -381,7 +377,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ManyNames">
+  <component name="RunManager" selected="Application.Demo">
     <configuration name="CollectorDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ocp.exam.guide.chap9.collector.CollectorDemo" />
       <module name="nan.core" />
@@ -395,12 +391,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ManyNames" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ocp.exam.guide.chap9.parallel.ManyNames" />
+    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ocp.exam.guide.chap10.exercise102.Demo" />
       <module name="nan.core" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ocp.exam.guide.chap9.parallel.*" />
+          <option name="PATTERN" value="ocp.exam.guide.chap10.exercise102.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -408,12 +404,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OptionalDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ocp.exam.guide.chap9.optional.OptionalDemo" />
+    <configuration name="ManyNames" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ocp.exam.guide.chap9.parallel.ManyNames" />
       <module name="nan.core" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ocp.exam.guide.chap9.optional.*" />
+          <option name="PATTERN" value="ocp.exam.guide.chap9.parallel.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -449,11 +445,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Demo" />
         <item itemvalue="Application.ManyNames" />
         <item itemvalue="Application.ParallelDemo" />
         <item itemvalue="Application.CollectorDemo" />
         <item itemvalue="Application.SortedDemo" />
-        <item itemvalue="Application.OptionalDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -517,11 +513,12 @@
       <workItem from="1558178780994" duration="55000" />
       <workItem from="1558178852803" duration="11458000" />
       <workItem from="1558377228071" duration="5436000" />
+      <workItem from="1558461656329" duration="1869000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="107098000" />
+    <option name="totallyTimeSpent" value="108967000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -535,7 +532,7 @@
   <component name="ToolWindowManager">
     <frame x="3832" y="1050" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.7361111" visible="true" weight="0.23027718" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.7361111" visible="true" weight="0.23294243" />
       <window_info id="Structure" order="1" sideWeight="0.2650231" side_tool="true" weight="0.21268657" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -544,7 +541,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32969603" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946696" weight="0.32719395" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49946696" visible="true" weight="0.32719395" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39761648" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -560,7 +557,7 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Theme Preview" order="4" />
-      <window_info anchor="right" id="Maven" order="5" visible="true" weight="0.26226014" />
+      <window_info anchor="right" id="Maven" order="5" weight="0.26226014" />
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Database" order="8" weight="0.44189766" />
@@ -680,27 +677,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/time/ZoneId.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="421" column="26" selection-start-line="421" selection-start-column="26" selection-end-line="421" selection-end-column="26" />
-          <folding>
-            <element signature="e#15593#15594#0" expanded="true" />
-            <element signature="e#15632#15633#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/tiku/p018/P18.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="89" selection-start-line="9" selection-start-column="89" selection-end-line="9" selection-end-column="89" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/function/BinaryOperator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="278">
@@ -1145,6 +1121,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ocp/exam/guide/chap9/collector/CollectorDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="833">
+          <caret line="54" column="18" selection-start-line="54" selection-start-column="18" selection-end-line="54" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ocp/exam/guide/chap9/parallel/ParallelDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="11" column="25" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/stream/Collectors.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2975">
@@ -1178,30 +1174,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ocp/exam/guide/chap9/collector/CollectorDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="685">
-          <caret line="54" column="18" lean-forward="true" selection-start-line="54" selection-start-column="18" selection-end-line="54" selection-end-column="18" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ocp/exam/guide/chap9/parallel/ParallelDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="25" lean-forward="true" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ocp/exam/guide/chap9/parallel/ManyNames.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="36" selection-start-line="5" selection-start-column="36" selection-end-line="5" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ocp/exam/guide/chap10/exercise102/Demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ocp/exam/guide/chap10/exercise102/SyncBlock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="34" selection-start-line="17" selection-start-column="34" selection-end-line="17" selection-end-column="34" />
+          <folding>
+            <element signature="e#196#197#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
