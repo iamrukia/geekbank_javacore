@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d0732985-d90e-4603-ac10-c4209a086b69" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ocp/exam/guide/chap10/threadsafe/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ocp/exam/guide/chap10/threadsafe/NameList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ocp/exam/guide/chap10/threadsafe/NameListSafe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ocp/exam/guide/chap10/threadsafe/SafeDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ocp/exam/guide/chap10/whichrunaable/WhichRunnable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="d0732985-d90e-4603-ac10-c4209a086b69" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -542,12 +535,12 @@
       <workItem from="1558178780994" duration="55000" />
       <workItem from="1558178852803" duration="11458000" />
       <workItem from="1558377228071" duration="5436000" />
-      <workItem from="1558461656329" duration="6520000" />
+      <workItem from="1558461656329" duration="6762000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="113618000" />
+    <option name="totallyTimeSpent" value="113860000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -560,7 +553,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="3832" y="1050" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.7361111" visible="true" weight="0.23294243" />
       <window_info id="Structure" order="1" sideWeight="0.2650231" side_tool="true" weight="0.21268657" />
@@ -571,7 +563,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32969603" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49946696" visible="true" weight="0.32719395" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946696" weight="0.32719395" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39761648" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -579,7 +571,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32936078" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.29685807" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.29685807" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50053304" side_tool="true" weight="0.32936078" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.32827735" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
