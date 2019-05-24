@@ -2,38 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d0732985-d90e-4603-ac10-c4209a086b69" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ocp/exam/guide/chap11/problem/p1/P1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ocp/exam/guide/chap11/problem/p12/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ocp/exam/guide/chap11/problem/p12/TwoThreads.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ocp/exam/guide/chap11/problem/p13/Starter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ocp/exam/guide/chap11/problem/p14/Leader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ocp/exam/guide/chap11/problem/p15/DudesChat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ocp/exam/guide/chap11/problem/p5/P5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ocp/exam/guide/chap6/study2/point1/p1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ocp/exam/guide/chap7/problem/p2/Bar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ocp/exam/guide/chap7/problem/p6/AbstractTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ocp/exam/guide/chap7/problem/p8/TestInners.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ocp/exam/guide/chap8/p9/SupplierDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ocp/exam/guide/chap6/study2/point1/UseArrayList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ocp/exam/guide/chap6/backed/collections/ArrayDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ocp/exam/guide/chap6/old/collections/ArrayDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ocp/exam/guide/chap6/backed/collections/TreeMapDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ocp/exam/guide/chap6/old/collections/TreeMapDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ocp/exam/guide/chap6/binarysearch/BinarySearchDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ocp/exam/guide/chap6/old/binarysearch/BinarySearchDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ocp/exam/guide/chap6/make/own/genericclass/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ocp/exam/guide/chap6/old/genericclass/Animal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ocp/exam/guide/chap6/make/own/genericclass/AnimalHolder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ocp/exam/guide/chap6/old/genericclass/AnimalHolder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ocp/exam/guide/chap6/make/own/genericclass/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ocp/exam/guide/chap6/old/genericclass/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ocp/exam/guide/chap6/make/own/genericclass/CarRental.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ocp/exam/guide/chap6/old/genericclass/CarRental.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ocp/exam/guide/chap6/make/own/genericclass/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ocp/exam/guide/chap6/old/genericclass/Cat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ocp/exam/guide/chap6/make/own/genericclass/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ocp/exam/guide/chap6/old/genericclass/Dog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ocp/exam/guide/chap6/make/own/genericclass/Rental.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ocp/exam/guide/chap6/old/genericclass/Rental.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ocp/exam/guide/chap6/make/own/genericclass/RentalGeneric.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ocp/exam/guide/chap6/old/genericclass/RentalGeneric.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ocp/exam/guide/chap6/make/own/genericclass/TestGenerics.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ocp/exam/guide/chap6/old/genericclass/TestGenerics.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ocp/exam/guide/chap6/make/own/genericclass/TestRental.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ocp/exam/guide/chap6/old/genericclass/TestRental.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ocp/exam/guide/chap6/make/own/genericclass/TestX.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ocp/exam/guide/chap6/old/genericclass/TestX.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ocp/exam/guide/chap6/make/own/genericclass/UseTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ocp/exam/guide/chap6/old/genericclass/UseTwo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ocp/exam/guide/chap6/make/own/genericclass/X.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ocp/exam/guide/chap6/old/genericclass/X.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ocp/exam/guide/chap6/mix/generic/nongeneric/TestBadLegacy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ocp/exam/guide/chap6/old/nongeneric/TestBadLegacy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ocp/exam/guide/chap6/priorityqueue/PQ.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ocp/exam/guide/chap6/old/priorityqueue/PQ.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ocp/exam/guide/chap6/sort/SortDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ocp/exam/guide/chap6/old/sort/SortDemo.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -63,104 +33,22 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/ocp/exam/guide/chap11/problem/p5/P5.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ocp/exam/guide/chap6/study2/point1/p1.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="31" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/ocp/exam/guide/chap11/problem/p12/TwoThreads.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="31" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/ocp/exam/guide/chap7/problem/p2/Bar.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="21" column="10" selection-start-line="21" selection-start-column="10" selection-end-line="21" selection-end-column="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/ocp/exam/guide/chap7/problem/p6/AbstractTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="25" selection-start-line="25" selection-end-line="25" />
-              <folding>
-                <element signature="e#103#104#0" expanded="true" />
-                <element signature="e#128#129#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/ocp/exam/guide/chap8/p9/SupplierDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" selection-start-line="14" selection-end-line="14" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state>
+              <caret column="48" selection-start-column="48" selection-end-column="48" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/ocp/exam/guide/chap6/study2/point1/p1.txt">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/ocp/exam/guide/chap7/problem/p8/TestInners.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ocp/exam/guide/chap6/study2/point1/UseArrayList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="19" column="9" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
+            <state relative-caret-position="408">
+              <caret line="24" column="33" selection-start-line="24" selection-start-column="33" selection-end-line="24" selection-end-column="33" />
               <folding>
-                <element signature="e#65#66#0" expanded="true" />
-                <element signature="e#108#109#0" expanded="true" />
-                <element signature="e#182#183#0" expanded="true" />
-                <element signature="e#219#220#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/ocp/exam/guide/chap11/problem/p12/Demo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="35" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/ocp/exam/guide/chap11/problem/p13/Starter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="13" column="8" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
-              <folding>
-                <element signature="e#108#109#0" expanded="true" />
-                <element signature="e#146#147#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/ocp/exam/guide/chap11/problem/p14/Leader.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -188,8 +76,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/ocp/exam/guide/chap6/problem/p9/P9.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ocp/exam/guide/chap6/problem/p12/TurtleTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/ocp/exam/guide/chap6/problem/p16/FirstGrade.java" />
         <option value="$PROJECT_DIR$/src/main/java/ocp/exam/guide/chap6/problem/p17/GeoCache.java" />
         <option value="$PROJECT_DIR$/src/main/java/ocp/exam/guide/chap6/problem/sort/SortDemo.java" />
@@ -239,6 +125,8 @@
         <option value="$PROJECT_DIR$/src/main/java/ocp/exam/guide/chap8/problem/p8/TestInners.java" />
         <option value="$PROJECT_DIR$/src/main/java/ocp/exam/guide/chap7/problem/p6/AbstractTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/ocp/exam/guide/chap8/p9/SupplierDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ocp/exam/guide/chap6/study2/point1/p1.txt" />
+        <option value="$PROJECT_DIR$/src/main/java/ocp/exam/guide/chap6/study2/point1/UseArrayList.java" />
       </list>
     </option>
   </component>
@@ -414,7 +302,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TestInners">
+  <component name="RunManager" selected="Application.UseArrayList">
     <configuration name="AbstractTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ocp.exam.guide.chap8.problem.p6.AbstractTest" />
       <module name="nan.core" />
@@ -454,19 +342,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Starter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ocp.exam.guide.chap11.problem.p13.Starter" />
-      <module name="nan.core" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ocp.exam.guide.chap11.problem.p13.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="TestInners" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ocp.exam.guide.chap8.problem.p8.TestInners" />
       <module name="nan.core" />
@@ -480,13 +355,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="UseArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ocp.exam.guide.chap6.study2.point1.UseArrayList" />
+      <module name="nan.core" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ocp.exam.guide.chap6.study2.point1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.UseArrayList" />
         <item itemvalue="Application.TestInners" />
         <item itemvalue="Application.AbstractTest" />
         <item itemvalue="Application.DudesChat" />
         <item itemvalue="Application.Leader" />
-        <item itemvalue="Application.Starter" />
       </list>
     </recent_temporary>
   </component>
@@ -555,12 +443,12 @@
       <workItem from="1558508411282" duration="1066000" />
       <workItem from="1558595394908" duration="669000" />
       <workItem from="1558628819549" duration="8790000" />
-      <workItem from="1558737802979" duration="551000" />
+      <workItem from="1558737802979" duration="2717000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="125038000" />
+    <option name="totallyTimeSpent" value="127204000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -575,7 +463,7 @@
     <frame x="3832" y="1050" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.7361111" visible="true" weight="0.24626866" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.7361111" visible="true" weight="0.24626866" />
       <window_info id="Structure" order="1" sideWeight="0.2650231" side_tool="true" weight="0.21268657" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -584,7 +472,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32969603" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946696" weight="0.32719395" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49946696" visible="true" weight="0.32719395" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39761648" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -592,7 +480,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32936078" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.29685807" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.29685807" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50053304" side_tool="true" weight="0.32936078" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.32827735" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -720,13 +608,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/NavigableSet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="884">
-          <caret line="85" column="44" selection-start-line="85" selection-start-column="44" selection-end-line="85" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ocp/exam/guide/chap6/problem/p16/FirstGrade.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="408">
@@ -748,18 +629,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" column="51" selection-start-line="7" selection-start-column="51" selection-end-line="7" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ocp/exam/guide/chap6/old/binarysearch/BinarySearchDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="30" column="34" selection-start-line="30" selection-start-column="34" selection-end-line="30" selection-end-column="34" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#892#893#0" expanded="true" />
-            <element signature="e#937#938#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1185,8 +1054,32 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ocp/exam/guide/chap6/old/binarysearch/BinarySearchDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ocp/exam/guide/chap6/study2/point1/p1.txt">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="48" selection-start-column="48" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ocp/exam/guide/chap6/study2/point1/UseArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="33" selection-start-line="24" selection-start-column="33" selection-end-line="24" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
     </entry>
   </component>
   <component name="masterDetails">
